@@ -1,8 +1,8 @@
 # Headings
 ***
 
--number # = Heading level
--Altnerative Syntax
+-number # = Heading level\
+-Alternative Syntax
   - ===== is level 1 heading
   - ----- is level 2 heading
 # Paragraphs
