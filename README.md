@@ -21,5 +21,5 @@ My name is Tim, he/him, recently separated from the Navy and seeking a career ch
 My github porfolio link is [timchungdmd.github.io](timchung.github.io/reading-notes).
 
 
-+[Module 1 assignment](reading-notes/learn-markdown.md)
-+[Module 2 Assignment](reading-notes/read2-reflection-discussion.md)
++[Module 1 assignment](timchung.github.io/reading-notes/learn-markdown.md)\
++[Module 2 Assignment](timchung.github.io/reading-notes/read2-reflection-discussion.md)
