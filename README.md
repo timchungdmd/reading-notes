@@ -18,4 +18,8 @@ Utilize at least 5 different features of Markdown to structure your page
 
 My name is Tim, he/him, recently separated from the Navy and seeking a career change. 
 
-My github porfolio link is [timchungdmd.github.io](timchung.github.io).
+My github porfolio link is [timchungdmd.github.io](timchung.github.io/reading-notes).
+
+
++[Module 1 assignment](reading-notes/learn-markdown.md)
++[Module 2 Assignment](reading-notes/read2-reflection-discussion.md)
