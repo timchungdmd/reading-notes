@@ -5,4 +5,4 @@ My github page link is [timchungdmd.github.io](https://timchungdmd.github.io/rea
 Table of Contents
 - [Module 1 Assignment](learn-markdown.md)
 - [Module 2 Assignment](read2-reflection-discussion.md)
-- [Module 3 Assignment]
+- [Module 3 Assignment](read3-revisions-and-the-cloud.md)
