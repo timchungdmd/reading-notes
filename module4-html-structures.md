@@ -16,18 +16,18 @@
 - Nesting element: element inside an element
 - Empty elements do not have a closing tag
 - Anatomy of HTML document(example)
-   - <!DOCTYPE html>
-        <html lang="en-US">
-          <head>
-            <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width">
-            <title>My test page</title>
-          </head>
-          <body>
-            <img src="images/firefox-icon.png" alt="My test image">
-          </body>
-       </html>
-- Image tag: <img src="url", alt="alt text"
+   - \<!DOCTYPE html><br> 
+        \<html lang="en-US"><br> 
+          \<head><br> 
+            \<meta charset="utf-8"><br>  
+            \<meta name="viewport" content="width=device-width"><br> 
+            \<title>My test page</title><br> 
+          \</head><br> 
+          \<body><br> 
+            \<img src="images/firefox-icon.png" alt="My test image"><br> 
+          \</body><br> 
+       \</html><br> 
+- Image tag: \<img src="url", alt="alt text">
                   
 # Marking up Text
 - H1 through 6 : Headings and subheading, equivalent of title and chapter titles, and subtitles
