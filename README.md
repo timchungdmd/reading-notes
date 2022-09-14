@@ -6,3 +6,4 @@ Table of Contents
 - [Module 1 Assignment](learn-markdown.md)
 - [Module 2 Assignment](read2-reflection-discussion.md)
 - [Module 3 Assignment](read3-revisions-and-the-cloud.md)
+- [Module 4 Assignment](read4-html-structures.md)
