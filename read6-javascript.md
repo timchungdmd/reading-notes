@@ -25,4 +25,3 @@
 - [Javascript Basics](https://code-maven.com/javascript)
 - [Mozilla Javbscript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript variables](https://www.w3schools.com/js/js_variables.asp)
-- 
