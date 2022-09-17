@@ -9,3 +9,4 @@ Table of Contents
 - [Module 4 Assignment](read4-html-structures.md)
 - [Html Websframe](https://timchungdmd.github.io/webframe/)
 - [Module 5 Assignment](read5-css.md)
+- [Module 6 Assignment](read-javascript.md)
