@@ -33,7 +33,7 @@
 
 ## Bitwise operators
 
-- & and, | or, ~ not, ^ xor, \<< left shift, \>> right shift, >>> unsigned right shift
+- & and, \| or, ~ not, ^ xor, \<< left shift, \>> right shift, >>> unsigned right shift
 
 # Javascript Objects
 
