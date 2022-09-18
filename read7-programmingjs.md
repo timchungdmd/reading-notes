@@ -1,4 +1,4 @@
-# Control flow
+# Control Flow
 
 - Order in which the computere executes statements in a script
 - Trypical script in javascript and alikes include many control structures, including conditionals, loops, and functions
