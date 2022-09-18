@@ -29,11 +29,11 @@
 - -- decrement
 - ** exponentiation
 - \+ can also be used to concatenate strings
-- && logical and, \|| logical or , \| logical not
+- && = logical and, \|\| = logical or , \| = logical not
 
 ## Bitwise operators
 
-- & and, \| or, ~ not, ^ xor, \<< left shift, \>> right shift, >>> unsigned right shift
+- & =and, \| =or, ~ =not, ^ =xor, \<< =left shift, \>> =right shift, \>\>> =unsigned right shift
 
 # Javascript Objects
 
