@@ -29,7 +29,7 @@
 - -- decrement
 - ** exponentiation
 - \+ can also be used to concatenate strings
-- && logical and, || logical or , | logical not
+- && logical and, \|| logical or , \| logical not
 
 ## Bitwise operators
 
