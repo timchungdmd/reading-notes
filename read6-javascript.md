@@ -24,5 +24,5 @@
 - document.getElementById('btn').addEventListener('click', clicked); : this code means that when the browser detects a click on the html element with the id btn, then it will execute the function called clicked. Clicked function will change the DOM by running function clicked
 - ajax_get: this function expects two parameters. The first one is the URL we request, second parameter is expected to be a function which will be called when the response arrives from the server
 - [Javascript Basics](https://code-maven.com/javascript)
-- [Mozilla Javbscript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Mozilla Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript variables](https://www.w3schools.com/js/js_variables.asp)
