@@ -11,3 +11,4 @@ Table of Contents
 - [Module 5 Assignment](read5-css.md)
 - [Module 6 Assignment](read6-javascript.md)
 - [Module 7 Assignment](read7-programmingjs.md)
+- [Module 8 Assignment](read8-loops.md)
