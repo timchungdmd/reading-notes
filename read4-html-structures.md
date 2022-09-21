@@ -1,7 +1,7 @@
 # How to make your first wireframe
 - Wireframe allows designer to define and plan the information hierarchy of their design for a website, app, or product
 - Wireframe creation process
-   - Roughdraft of wireframe is drawn with paper and pencil, or on a whiteboard
+   - Rough draft of wireframe is drawn with paper and pencil, or on a whiteboard
    - Prototype with end users
    - Build a wireframe with programming language
 -Tools available for wireframing: [UXpin](https://www.uxpin.com/), [InVision](http://www.invisionapp.com/),[Wireframe.cc](https://wireframe.cc/)
@@ -31,13 +31,13 @@
                   
 # Marking up Text
 - H1 through 6 : Headings and subheading, equivalent of title and chapter titles, and subtitles
-- Lists: \< ul > = unorderd list, \< ol >=ordered list, each list will have \<li>
+- Lists: \< ul > = unordered list, \< ol >=ordered list, each list will have \<li>
 - Links: \<a href='url'> text \</a>
 
 # Semantics
 - Semantics: meaning of a piece of code
   - HTML should be coded to represent the data that will be populated and not based on its default presentation styling
 - Benefits of Semantic markup: SEO, help visually impaired users, ease of search through blocks of meaningful codes, communication amongst developers what data will be populated in each block
-- Exmaples of semantic elements can be found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#inline_text_semantics), 
+- Examples of semantic elements can be found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#inline_text_semantics), 
   
                                   
