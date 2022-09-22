@@ -1,4 +1,4 @@
-My name is Tim, he/him, recently separated from the Navy and seeking a career change. 
+<h1>My name is Tim, he/him, recently separated from the Navy and seeking a career change.</h1>
 
 My github page link is [timchungdmd.github.io](https://timchungdmd.github.io/reading-notes/).
 
