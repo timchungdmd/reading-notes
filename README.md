@@ -1,7 +1,7 @@
 <h1>My name is Tim, he/him, recently separated from the Navy and seeking a career change.</h1>
 
 My github page link is [timchungdmd.github.io](https://timchungdmd.github.io/reading-notes/).
-## Table of Contents for 200 Course
+## Table of Contents for 201 Course
 ## Table of Contents for 102 Course
 - [Module 1 Assignment](learn-markdown.md)
 - [Module 2 Assignment](read2-reflection-discussion.md)
