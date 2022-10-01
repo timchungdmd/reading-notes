@@ -20,7 +20,9 @@ Link to Course 201 assignment list [page](https://codefellows.github.io/common_c
 - [Markdown Language on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Quickstart for Github](https://docs.github.com/en/pages/quickstart)
 - [Intro to HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
-- [Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming))
+- [Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
+- [Git Tutorial 1](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
+- [Git Tutorial 2](https://learngitbranching.js.org/)
 ## Table of Contents for 102 Course
 - [Module 1 Assignment](learn-markdown.md)
 - [Module 2 Assignment](read2-reflection-discussion.md)
