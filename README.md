@@ -6,7 +6,9 @@
 My github page link is [timchungdmd.github.io](https://timchungdmd.github.io/reading-notes/).
 Link to Course 201 assignment list [page](https://codefellows.github.io/common_curriculum/readings_and_reflections/discussion_submission)
 ## Things I want to know more about
-- [Reading Assignment 1]
+  
+## Table of Contents for 201 Course
+- [Reading Assignment 1](class-01.md)
 - [Reading Assignment 2]
 - [Reading Assignment 3]
 - [Reading Assignment 4]
@@ -20,11 +22,9 @@ Link to Course 201 assignment list [page](https://codefellows.github.io/common_c
 - [Reading Assignment 12]
 - [Reading Assignment 13]
 - [Reading Assignment 14]
-- [Reading Assignment 15]   
-## Table of Contents for 201 Course
-
+- [Reading Assignment 15] 
 ## References
-- [Update Reumse](https://codefellows.github.io/common_curriculum/career_coaching/201/update-your-resume)
+- [Update Resume](https://codefellows.github.io/common_curriculum/career_coaching/201/update-your-resume)
 - [Prepared LinkedIn Profile](https://codefellows.github.io/common_curriculum/career_coaching/201/prepare-your-linkedin)
 - [How to setup GIT, Slack, and Canva](https://codefellows.github.io/common_curriculum/prework/setup-your-accounts)
 - [Computer Setup Instrucction](https://codefellows.github.io/common_curriculum/prework/setup-your-accounts)
