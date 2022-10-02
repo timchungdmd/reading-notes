@@ -46,4 +46,4 @@ Describe 2 things that require JavaScript in the Browser?
 - Dynamically updating website and server side programming
 
 How can you add JavaScript to an HTML document?
--Internal js can written between script element. External js can be written as a separate file and linked via src attribute in script element.
+- Internal js can written between script element. External js can be written as a separate file and linked via src attribute in script element.
