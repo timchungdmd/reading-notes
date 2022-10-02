@@ -13,7 +13,7 @@ How do you create a String vs a Number in JavaScript?
 - To signify that the value is a string, enclose it in single quote marks. Number type is written without the single quote marks
 
 What is a Variable and why are they important in JavaScript?
-- Variable is a container that stores value, and it is decalred by starting with the <b>let<\b> keyword. Variable is important because it enables programs to be dynamic by allowing its values to change dynamically
+- Variable is a container that stores value, and it is decalred by starting with the **let** keyword. Variable is important because it enables programs to be dynamic by allowing its values to change dynamically
 
 What is an HTML attribute?
 - Attributes contain extra information about the element that won't appear in the content
