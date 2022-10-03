@@ -9,20 +9,20 @@ Link to Course 201 assignment list [page](https://codefellows.github.io/common_c
   
 ## Table of Contents for 201 Course
 - [Reading Assignment 1](class-01.md)
-- [Reading Assignment 2]
-- [Reading Assignment 3]
-- [Reading Assignment 4]
-- [Reading Assignment 5]
-- [Reading Assignment 6]
-- [Reading Assignment 7]
-- [Reading Assignment 8]
-- [Reading Assignment 9]
-- [Reading Assignment 10]
-- [Reading Assignment 11]
-- [Reading Assignment 12]
-- [Reading Assignment 13]
-- [Reading Assignment 14]
-- [Reading Assignment 15] 
+- [Reading Assignment 2](class-02.md)
+- [Reading Assignment 3](class-03.md)
+- [Reading Assignment 4](class-04.md)
+- [Reading Assignment 5](class-05.md)
+- [Reading Assignment 6](class-06.md)
+- [Reading Assignment 7](class-07.md)
+- [Reading Assignment 8](class-08.md)
+- [Reading Assignment 9](class-09.md)
+- [Reading Assignment 10](class-10.md)
+- [Reading Assignment 11](class-11.md)
+- [Reading Assignment 12](class-12.md)
+- [Reading Assignment 13](class-13.md)
+- [Reading Assignment 14](class-14.md)
+- [Reading Assignment 15] (class-15.md)
 ## References
 - [Update Resume](https://codefellows.github.io/common_curriculum/career_coaching/201/update-your-resume)
 - [Prepared LinkedIn Profile](https://codefellows.github.io/common_curriculum/career_coaching/201/prepare-your-linkedin)
