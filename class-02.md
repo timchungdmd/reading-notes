@@ -6,7 +6,7 @@ Why is it important to use semantic elements in our HTML?
 How many levels of headings are there in HTML?
 - Six headingn elements
 
-What are some uses for the <sup> and <sub> elements?
+What are some uses for the \<sup> and \<sub> elements?
 - Dates, chemical formulas, mathematical equations
 
 When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
@@ -53,3 +53,4 @@ What is the difference between the logical operator && and \|\|?
 - && means 'and', and \|\| means 'or'
 
 ## [How to write Git comment](https://chris.beams.io/posts/git-commit/)
+## Things I want to know more about
