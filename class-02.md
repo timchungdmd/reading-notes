@@ -49,7 +49,7 @@ What is the use of an else if?
 List 3 different types of comparison operators.
 - === is strict equality, testing whether the left and right values are identical to one another. !== is strict non-equality, testing whether the lef and right values are not identical to one another.  < and > are less than, greater than sign
 
-What is the difference between the logical operator && and ||?
-- && means 'and', and || means 'or'
+What is the difference between the logical operator && and \||?
+- && means 'and', and \|| means 'or'
 
 ## [How to write Git comment](https://chris.beams.io/posts/git-commit/)
