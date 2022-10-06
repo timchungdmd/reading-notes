@@ -13,7 +13,7 @@ What are some ways we can ensure links on our pages are accessible to all reader
 
 ### CSS Layout: Normal Flow CSS Layout: Positioning
 
-What is meant by “normal flow”?
+What is meant by normal flow?
 - "The way that webpage elements lay themselves out if you haven't changed their layout"
 
 What are a few differences between block-level and inline elements?
