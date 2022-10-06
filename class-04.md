@@ -39,7 +39,7 @@ What is the difference between a parameter and an argument?
 Miscellaneous
 
 ### 6 Reasons for Pair Programming
-- 
+
 Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 - Engaged collaboration and learning from fellow students are two major benefits I see from pair programming. Software engineering is not a solo sports. It's a team sports, that is why github exists. I may catch an error or make an improvement that others might have missed, and vice versa. Through the engaged collobrative effort we can learn from each other, because there is always more than one way to solve a problem. Some might think of a more efficient coding to solve a problem, some might think of a more secure coding to solve a problem and etc. It's difficult for one person to come up with the infinite possibilities, because we all come from different backgrounds which influence the way we see and interact with this world. Also this collaborative environment will keep us connected to other humans regardless of where we work. 
 
