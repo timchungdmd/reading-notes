@@ -1,6 +1,6 @@
 # HTML Media
 
-Using Images In HTML. Read Common Image Types and Choosing Image Formats.
+### Using Images In HTML. Read Common Image Types and Choosing Image Formats.
 
 What is a real world use case for the alt attribute being used in a website?
 - For people who use text only browser, or for visually impaired users.
@@ -17,9 +17,9 @@ Describe the difference between a gif image and an svg image, pretend you are ex
 What image type would you use to display a screenshot on your website and why?
 - Lossless WebP or PNG, lossless compression algorithm retains enough detail to minimize degradation of screencaptured text.
 
-Learn CSS
+# Learn CSS
 
-Using Color in CSS. Styling HTML Text Elements
+### Using Color in CSS. Styling HTML Text Elements
 
 Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
 - Foreground color value set the color of texts and text decorations, meanwhile background color values set the color of background. Background color is analogous to color of printer paper, an foreground color is the color of the text it will be printed.
