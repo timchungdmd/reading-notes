@@ -22,15 +22,19 @@ Learn CSS
 Using Color in CSS. Styling HTML Text Elements
 
 Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
-- 
+- Foreground color value set the color of texts and text decorations, meanwhile background color values set the color of background. Background color is analogous to color of printer paper, an foreground color is the color of the text it will be printed.
+
 Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
-- 
+- Choose background color and foregound color with high contrast ratio. Web accessiblilty guidelines requirement is 4.5:1  for text content and 3:1 for larger text such as heading."Large text is defined as 18.66px and bold order large, or 24px or larger"
+
 What should you consider when choosing fonts for an HTML document?
-- 
+- Not all fonts are universally available on all computers. Consider using web safe fonts that are generally known for universal availability, thanks to Microsoft core fonts for the web initiative in the late 90s.
+
 What do font-size, font-weight, and font-style do to HTML text elements?
-- 
+- Font size dictates the size of the font, font weight dictates bold value of the font, and font style dictates whether to italicize the font.
+
 Describe two ways you could add spacing around the characters displayed in an h1 element.
-- 
+- letter spacing and word spacing are two ways to set the spacing between letters and words, respectively.
 
 # References
 - [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia)
@@ -40,4 +44,6 @@ Describe two ways you could add spacing around the characters displayed in an h1
 - [Applying color to HTML elements using CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
 - [Fundamental text and font sytling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 - [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#alternative_text)
-- 
+- [Applying color to HTML elements using CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
+- [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+- [Web content accessibility guide lines](https://www.w3.org/WAI/standards-guidelines/wcag/)
