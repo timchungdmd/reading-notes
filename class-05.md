@@ -1,4 +1,4 @@
-HTML Media
+# HTML Media
 
 Using Images In HTML. Read Common Image Types and Choosing Image Formats.
 
