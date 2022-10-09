@@ -35,3 +35,5 @@ Briefly describe the relationship between the DOM and JavaScript.
 - [What is the difference between an array and an object in Javascript](https://learnersbucket.com/examples/array/what-is-the-difference-between-an-array-and-an-object-in-javascript/)
 - [Dot notation vs. Bracket notation](https://codeburst.io/javascript-quickie-dot-notation-vs-bracket-notation-333641c0f781)
 - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [How to Solve programming problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+- [What's the difference between primitive values and object refereces in Javascript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
