@@ -12,7 +12,8 @@ Give an example for when you would need to use bracket notation to access an obj
 - If an object property name is held in a variable, dot notation can't access the value, only bracket notation can accesss the values. 
 
 Evaluate the code below. What does the term 'this' refer to and what is the advantage to using 'this'?
-- 'this' is the object name and advantage is it's easier to read and understand the syntax.
+- "'this' refers to an object. In an objectmethod, this refer to the object. When used alone, it refers to the global object. In a function, it refers to the global object. In a function, in strict mode, this is undefined. In an event, this refer to the element that received the event. Methods like call(), apply(), and bind() can refer 'this' to any object. For the following example, 'this' is referring to object dog. Advantage of 'this' keywod is reusability in different contexts.It means, a function once defined can be invoked for different objects using this keyword. Identifying the object in the current execution context when we invoke a method.
+
 const dog = {
   name: 'Spot',
   age: 2,
@@ -37,3 +38,5 @@ Briefly describe the relationship between the DOM and JavaScript.
 - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [How to Solve programming problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
 - [What's the difference between primitive values and object refereces in Javascript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
+- [The JavaScript this keyword](https://www.w3schools.com/js/js_this.asp#:~:text=In%20JavaScript%2C%20the%20this%20keyword,this%20refers%20to%20the%20object.)
+- [The Javascript 'this' keyword](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/#:~:text=In%20JavaScript%2C%20the%20this%20keyword,when%20we%20invoke%20a%20method.)
