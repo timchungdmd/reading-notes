@@ -12,7 +12,7 @@ Give an example for when you would need to use bracket notation to access an obj
 - If an object property name is held in a variable, dot notation can't access the value, only bracket notation can accesss the values. 
 
 Evaluate the code below. What does the term 'this' refer to and what is the advantage to using 'this'?
-- "'this' refers to an object. In an objectmethod, this refer to the object. When used alone, it refers to the global object. In a function, it refers to the global object. In a function, in strict mode, this is undefined. In an event, this refer to the element that received the event. Methods like call(), apply(), and bind() can refer 'this' to any object. For the following example, 'this' is referring to object dog. Advantage of 'this' keywod is reusability in different contexts.It means, a function once defined can be invoked for different objects using this keyword. Identifying the object in the current execution context when we invoke a method.
+- 'this' refers to the current object the code is being written inside. In an object method, this refer to the object. When used alone, it refers to the global object. In a function, it refers to the global object. In a function, in strict mode, this is undefined. In an event, this refer to the element that received the event. Methods like call(), apply(), and bind() can refer 'this' to any object. For the following example, 'this' is referring to object dog. Advantage of 'this' keywod is reusability in different contexts.It means, a function once defined can be invoked for different objects using this keyword. Identifying the object in the current execution context when we invoke a method.
 
 const dog = {
   name: 'Spot',
