@@ -2,8 +2,6 @@
 
 ### HTML Forms
 
-- 
-
 Why are forms so important in web development?
 - It is one of the main points of interactino between a user and a website or application. Forms allow useres to enter data, which is generally sent to a web server for processing and storage, or used on the client-side to immediately update the interface in some way .
 
