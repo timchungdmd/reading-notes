@@ -1,0 +1,19 @@
+
+*{
+  box-sizing: border-box;
+  display: flex;
+  font-family: "Alkalami", sans sans-serif, Arial;
+}
+html{
+  box-sizing: border-box;
+  display: flex;
+  background-color: rgb(255, 228, 189);
+  margin: 1rem 20%;
+}
+
+#container{
+  box-sizing: border-box;
+  display: flex;
+  background-color: rgb(255, 228, 189);
+  margin: 1rem 20%;
+}
