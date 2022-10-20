@@ -21,7 +21,7 @@ Link to Course 201 assignment list [page](https://codefellows.github.io/common_c
 - [Reading Assignment 11](class-11.md)
 - [Reading Assignment 12](class-12.md)
 - [Reading Assignment 13](class-13.md)
-- [Reading Assignment 14](class-14.md)
+- [Reading Assignment 14- Psychological Safety](class-14.md)
 - [Reading Assignment 15] (class-15.md)
 ## References
 - [Update Resume](https://codefellows.github.io/common_curriculum/career_coaching/201/update-your-resume)
